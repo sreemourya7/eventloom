@@ -113,9 +113,9 @@ class Store:
             where=stmt.excluded.updated_at > listings_table.c.updated_at,
         )
         with self.engine.begin() as conn:
-            result = conn.execute(stmt)
+            result = conn.execute(stmt.returning(listings_table.c.provider_id))
             return {
-                "applied": result.rowcount == 1,
+                "applied": result.scalar_one_or_none() is not None,
                 "provider": listing.provider,
                 "provider_id": listing.provider_id,
                 "decision": decision,
