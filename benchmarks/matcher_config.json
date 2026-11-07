@@ -1,0 +1,5 @@
+{
+  "threshold": 0.82,
+  "margin": 0.06,
+  "selection": "dev F1 with precision >= 0.995 when feasible"
+}

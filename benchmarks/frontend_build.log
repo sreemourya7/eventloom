@@ -1,0 +1,13 @@
+
+> eventloom-web@1.0.0 build
+> tsc -b && vite build
+
+vite v7.3.7 building client environment for production...
+transforming...
+✓ 1578 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.57 kB │ gzip:  0.37 kB
+dist/assets/index-YFo943cB.css   14.74 kB │ gzip:  4.10 kB
+dist/assets/index-DwKROytW.js   242.39 kB │ gzip: 76.44 kB
+✓ built in 3.14s

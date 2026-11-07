@@ -1,0 +1,199 @@
+{
+  "config": {
+    "threshold": 0.82,
+    "margin": 0.06,
+    "selection": "dev F1 with precision >= 0.995 when feasible"
+  },
+  "baseline": {
+    "total": 29643,
+    "known": 28701,
+    "accepted": 7336,
+    "correct": 7336,
+    "unknown": 942,
+    "correct_unknown_abstentions": 942,
+    "precision": 1.0,
+    "recall": 0.25560085014459427,
+    "f1": 0.407137109082332,
+    "false_merge_rate": 0.0
+  },
+  "test": {
+    "total": 29643,
+    "known": 28701,
+    "accepted": 24787,
+    "correct": 24787,
+    "unknown": 942,
+    "correct_unknown_abstentions": 942,
+    "precision": 1.0,
+    "recall": 0.8636284450019163,
+    "f1": 0.9268247083457971,
+    "false_merge_rate": 0.0,
+    "seconds": 14.734573242996703,
+    "observations_per_second": 2011.799019295603,
+    "match_p50_ms": 0.2825699993991293,
+    "match_p95_ms": 0.8512569984304719,
+    "candidate_comparisons": 458549,
+    "brute_force_comparisons": 283594581,
+    "candidate_reduction": 0.9983830826443049,
+    "by_noise": {
+      "clean": {
+        "total": 7310,
+        "known": 7310,
+        "accepted": 7310,
+        "correct": 7310,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "false_merge_rate": 0.0
+      },
+      "decorated": {
+        "total": 7185,
+        "known": 7185,
+        "accepted": 7185,
+        "correct": 7185,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "false_merge_rate": 0.0
+      },
+      "drift": {
+        "total": 1435,
+        "known": 1435,
+        "accepted": 757,
+        "correct": 757,
+        "precision": 1.0,
+        "recall": 0.5275261324041812,
+        "f1": 0.6906934306569343,
+        "false_merge_rate": 0.0
+      },
+      "missing": {
+        "total": 2838,
+        "known": 2838,
+        "accepted": 230,
+        "correct": 230,
+        "precision": 1.0,
+        "recall": 0.08104298801973221,
+        "f1": 0.1499348109517601,
+        "false_merge_rate": 0.0
+      },
+      "offset": {
+        "total": 4248,
+        "known": 4248,
+        "accepted": 4248,
+        "correct": 4248,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "false_merge_rate": 0.0
+      },
+      "typo": {
+        "total": 5685,
+        "known": 5685,
+        "accepted": 5057,
+        "correct": 5057,
+        "precision": 1.0,
+        "recall": 0.8895338610378188,
+        "f1": 0.9415378886613294,
+        "false_merge_rate": 0.0
+      },
+      "unknown": {
+        "total": 942,
+        "unknown": 942,
+        "correct_unknown_abstentions": 942,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0,
+        "false_merge_rate": 0.0
+      }
+    }
+  },
+  "full_catalog_test": {
+    "total": 29643,
+    "known": 28701,
+    "accepted": 24787,
+    "correct": 24787,
+    "unknown": 942,
+    "correct_unknown_abstentions": 942,
+    "precision": 1.0,
+    "recall": 0.8636284450019163,
+    "f1": 0.9268247083457971,
+    "false_merge_rate": 0.0,
+    "seconds": 14.34072102799837,
+    "observations_per_second": 2067.050878552476,
+    "match_p50_ms": 0.354568001057487,
+    "match_p95_ms": 0.9066630009328946,
+    "candidate_comparisons": 567849,
+    "brute_force_comparisons": 355716000,
+    "candidate_reduction": 0.9984036450426745,
+    "by_noise": {
+      "clean": {
+        "total": 7310,
+        "known": 7310,
+        "accepted": 7310,
+        "correct": 7310,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "false_merge_rate": 0.0
+      },
+      "decorated": {
+        "total": 7185,
+        "known": 7185,
+        "accepted": 7185,
+        "correct": 7185,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "false_merge_rate": 0.0
+      },
+      "drift": {
+        "total": 1435,
+        "known": 1435,
+        "accepted": 757,
+        "correct": 757,
+        "precision": 1.0,
+        "recall": 0.5275261324041812,
+        "f1": 0.6906934306569343,
+        "false_merge_rate": 0.0
+      },
+      "missing": {
+        "total": 2838,
+        "known": 2838,
+        "accepted": 230,
+        "correct": 230,
+        "precision": 1.0,
+        "recall": 0.08104298801973221,
+        "f1": 0.1499348109517601,
+        "false_merge_rate": 0.0
+      },
+      "offset": {
+        "total": 4248,
+        "known": 4248,
+        "accepted": 4248,
+        "correct": 4248,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "false_merge_rate": 0.0
+      },
+      "typo": {
+        "total": 5685,
+        "known": 5685,
+        "accepted": 5057,
+        "correct": 5057,
+        "precision": 1.0,
+        "recall": 0.8895338610378188,
+        "f1": 0.9415378886613294,
+        "false_merge_rate": 0.0
+      },
+      "unknown": {
+        "total": 942,
+        "unknown": 942,
+        "correct_unknown_abstentions": 942,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0,
+        "false_merge_rate": 0.0
+      }
+    }
+  }
+}

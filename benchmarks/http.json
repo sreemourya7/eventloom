@@ -1,0 +1,4020 @@
+{
+  "requests": 800,
+  "concurrency": 8,
+  "elapsed_seconds": 6.956806419999339,
+  "requests_per_second": 114.99529406196645,
+  "errors": 0,
+  "p50_ms": 64.09562600310892,
+  "p95_ms": 132.56320099753793,
+  "p99_ms": 193.2369700007257,
+  "catalog": {
+    "status": "ok",
+    "catalog_events": 12000,
+    "synthetic": true
+  },
+  "samples": [
+    {
+      "ms": 11.62166400172282,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.20727599953534,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.54442000295967,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.7401669981773,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.95118699845625,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.460782998939976,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.36805699841352,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.200310999993235,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 53.023275002487935,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 20.631772000342607,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 20.70238900341792,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 37.365597003372386,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 39.55041900189826,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 48.36110399628524,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 51.944982005807105,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.246795000333805,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 45.40005099988775,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.96981199819129,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 92.77206900151214,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 83.33647299878066,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 82.90315100020962,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 55.97647799731931,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 46.026962001633365,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 47.81979400286218,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 73.37115399423055,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 73.65501599997515,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 73.30147900211159,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 81.182276000618,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 76.28867200401146,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 84.40265100216493,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 86.65152799949283,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 27.20328800205607,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 97.6872889950755,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 27.295462998154107,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 47.2354820012697,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 50.9569729983923,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.42809500003932,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 70.64803799585206,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 68.6491960004787,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.35283499961952,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 55.90839900105493,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.46340499899816,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 41.11775200726697,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 48.4762510022847,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 29.322226997464895,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 47.54004099959275,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 85.9447539987741,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 85.23697800410446,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.98015400615986,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 68.42886799859116,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 91.14019900152925,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 95.07257799850777,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 68.96885999594815,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 45.038405995001085,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 13.448234996758401,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 72.12941700709052,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 76.67293299891753,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 83.32200899894815,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 78.82269300171174,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 74.25371000135783,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 82.78209799755132,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 81.1813520049327,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 89.44144899578532,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 15.864916000282392,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 18.90007399924798,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.21945499681169,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 49.704265999025665,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.12541100062663,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.25105000037001,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.12025300232926,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.67392800207017,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.348631002241746,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 73.3825089992024,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 45.45145500014769,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 51.91053899761755,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.93393100227695,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 54.975396997178905,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 55.947111002751626,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.14378799934639,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 88.54829099436756,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 84.29702099965652,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 48.10344099678332,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 45.51079499651678,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 49.23209999833489,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 48.83734099712456,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 47.0902870001737,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.84555400168756,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 28.548023001349065,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 35.15896500175586,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 47.495503997197375,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.24133399943821,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 71.1701950058341,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.77855399780674,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 75.0911789946258,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 77.06128899735631,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.847172003472224,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.47579500207212,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 28.11078300146619,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 37.4372339938418,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 32.44030899804784,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.4210539960186,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 32.30797799915308,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.22452100133523,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.996316995238885,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 81.11480999650666,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.182275999570265,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.89383299613837,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.72321300214389,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.67897300433833,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.50711699936073,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 38.780290000431705,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 48.12523800501367,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 135.7104819981032,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 136.7179379958543,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 135.47617000585888,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 140.6916550040478,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 143.25886400183663,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 141.81579900468932,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 132.56320099753793,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 25.826990000496153,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 151.02417299931403,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 35.27942700020503,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 42.175322996627074,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.11033400218002,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.948327005666215,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.58407600095961,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.20747999841115,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 51.022552004724275,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 34.67351300059818,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 48.92277800536249,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.870414996519685,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 63.76894999993965,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 68.08119200286455,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.23905399889918,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 70.58704699738882,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 63.883442999213,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.55081099556992,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.05169300403213,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.27428900374798,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 24.65956700325478,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 31.599622998328414,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 29.025818999798503,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 39.284752994717564,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 42.04105500684818,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 99.22976399684558,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 101.2918409978738,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 77.33492799889063,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 113.36027299694251,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 80.27203500387259,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 94.80168300069636,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.826940998784266,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 118.9486829971429,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 34.26820800086716,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 79.54009800596396,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 77.41701799386647,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 95.27126700413646,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 70.68555200385163,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 81.28154299629387,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 82.57627999410033,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 74.47903900174424,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.505459001637064,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.79448299837532,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.4061339959735,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.9267069970374,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 104.1586829960579,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 70.22777599922847,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.4630719954148,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 73.24357300240081,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 25.039765001565684,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 21.217787005298305,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.08022800314939,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.04672799969558,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 63.84118799905991,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 63.67069599946262,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.20193999877665,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 73.85905199771514,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 73.30704400374088,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 17.03623899811646,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 21.34685099736089,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 165.82133599877125,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 117.60324500210118,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 115.81569899863098,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 121.27368900110014,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 118.30751299567055,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 100.02540700224927,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 124.2042610028875,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 102.44668999803253,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 15.07004499580944,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 81.81398699525744,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 78.48516500234837,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 77.68179899721872,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 82.67871699354146,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 82.8123319952283,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 82.608598000661,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 81.51854899915634,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 76.66384599724552,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 18.902190000517294,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 17.878354999993462,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 33.7126430022181,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 36.52066500217188,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 50.97188900253968,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 45.338907999393996,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 49.34552600025199,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.06783500034362,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 38.170221996551845,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.53666399727808,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.0090619995608,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.03959600254893,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 76.6493690025527,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.50919700384839,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 103.60232299717609,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 104.63743400032399,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 42.641603999072686,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 12.785680999513716,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 54.34126200270839,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.746954004163854,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.38441500399495,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.615212001721375,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.17980100598652,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 68.57819500146434,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.066787999356166,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.08311600232264,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 23.86608599772444,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 16.02966199425282,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 36.56393999699503,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.27395800448721,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.7237249983591,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.7088039960363,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 68.86333599686623,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 63.196846000209916,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.17744000302628,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 82.21882000361802,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 47.77125400141813,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 123.12581399601186,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 128.0530980002368,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 124.15278400294483,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 129.31033100176137,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.74502199690323,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.59308299841359,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 178.01395800051978,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 190.85593399358913,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.92687199817738,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.99007600400364,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 196.72056599665666,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 185.6643270002678,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 33.97911500360351,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 39.14592899673153,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.436876006249804,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.17280299460981,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.3350619985722,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.178515999927185,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.6056770021678,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 49.52390999824274,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 79.61980500112986,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.13124500005506,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 35.67609699530294,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 43.828945999848656,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 86.23703699413454,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 88.38582300086273,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 76.07014699897263,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 80.66212399717188,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 83.60436299699359,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 102.41635800048243,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.69558699609479,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.446497998782434,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 51.44726899743546,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.095499000453856,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.86348400317365,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.41526100144256,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.250187000026926,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.902148997935,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 72.86862599721644,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.310513996635564,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 53.33708600664977,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 51.99321999680251,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 55.99919599626446,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 54.59444799635094,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.43211099959444,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.28960899473168,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.02969300263794,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.96434199955547,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 93.81335199577734,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 72.8980310013867,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 92.9669540055329,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 77.55935400200542,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 97.19148700241931,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 101.48763799952576,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 78.53792500100099,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 101.00270000111777,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 42.56273499777308,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.78167699929327,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 70.48681199376006,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.969362004078,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 74.34217700210866,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.10025799798314,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.1816300022765,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.63927500328282,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 40.65828300372232,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 15.685916994698346,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 17.023000000335742,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 12.55077299720142,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 19.718470000952948,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 36.746712001331616,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 31.910322002659086,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 47.89226299908478,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 51.174110994907096,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.60897400230169,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 83.2828559941845,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 86.92801500001224,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 41.523342006257735,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 78.95496799756074,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 44.64705599821173,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 44.55109700211324,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 48.04003600293072,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 36.70578200399177,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 42.12908699992113,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 41.335758003697265,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 40.858303000277374,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 49.9019889975898,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.50680400140118,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.33707000379218,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 53.700883996498305,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 47.359680000226945,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 47.03083100321237,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 49.731029001122806,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 48.763658000098076,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.00026999734109,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.14835500193294,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 63.84083399461815,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 41.02952199900756,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.54993099800777,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 48.44145900278818,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 48.32835200068075,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 49.42761799611617,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 47.016948999953456,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 47.809714000322856,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 51.88114899647189,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.76298000355018,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 54.27865200181259,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.3294969999697,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 53.9642330040806,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 34.739784998237155,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 32.456639004522,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 28.551679002703167,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 79.19414799835067,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 49.8306160006905,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 46.41074800019851,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.5160460001789,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.51376400218578,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.70624600176234,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.53591899963794,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 70.9641100038425,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 45.62980600167066,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 11.86966100067366,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 33.62053800083231,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 31.57750999525888,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 39.94573299860349,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 45.80795200308785,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 55.72162099997513,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 51.032857001700904,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.07607200485654,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.67073899996467,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.83670200232882,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.393539002281614,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 48.445975000504404,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 40.53800999827217,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.98633299936773,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.51956600113772,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 53.828112002520356,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.8908810018911,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 37.74354200140806,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 39.811028000258375,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 38.98734399990644,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 44.3643289981992,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 50.221669000166,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 41.55861599429045,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 115.47161599446554,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 115.34122800367186,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 153.74377500120318,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 126.97548999858554,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 131.573380996997,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 112.83405499852961,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 127.47189099900424,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 133.95031699474202,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 42.01275900413748,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 34.79483399860328,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.50721600250108,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.41122999723302,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.13961600122275,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.30290599685395,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.38481400173623,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.685583997226786,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.8371249990305,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 49.48641100054374,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 17.27217000006931,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.42770000285236,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.98021199472714,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.932922999199945,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.08464099938283,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 25.388249996467493,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 117.51462799293222,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 110.89322400221135,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 132.76415100699523,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.71134500054177,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 135.16815399634652,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 70.50419100414729,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 72.20589499775087,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 20.803694998903666,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 63.100995001150295,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 26.795026002218947,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 40.67392500292044,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 39.79704900120851,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 39.44531000161078,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 39.2547130031744,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 43.46861899830401,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 50.28966100508114,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 95.3504540011636,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 77.02992900158279,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 79.667910002172,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 82.47916999971494,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 79.42492999427486,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 81.27707300445763,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 111.23392500303453,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 19.32303100329591,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 134.98757799970917,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 85.43917199858697,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 78.08959400426829,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 92.51383299852023,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 89.71844999905443,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 86.19512299628695,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 88.90040800179122,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 90.0781009986531,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 13.083420002658386,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 17.356805001327302,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.42440799967153,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 68.48332200024743,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.1699639937724,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 70.01059300091583,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.42672900186153,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 74.38476300012553,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.35033200168982,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 88.56098199612461,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 22.409164004784543,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 29.450542999256868,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 50.65539199858904,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.95304900209885,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.10342900035903,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.87916500068968,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 71.81602399941767,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.24972700106446,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.19749100069748,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 32.79392400145298,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.53816399880452,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 35.509758003172465,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 53.94143699959386,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.28320399491349,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 73.5931739982334,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.12709199805977,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.2811819986091,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.52710299991304,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.18149600317702,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 40.32188800192671,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 35.23253800085513,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 43.715626998164225,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 24.035590002313256,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.25856800039764,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.77931500558043,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.020015996997245,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.48751500021899,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 87.09920700493967,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 72.5206610004534,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 89.85974000097485,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 84.49082500010263,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 55.9719140001107,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 63.430176000110805,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.39156100188848,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.38363900088007,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.30192299780902,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.53572799789254,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 86.7837440018775,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.30151499644853,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 38.19497299991781,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 30.17689199623419,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.49592499725986,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.49667699658312,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 75.00939600140555,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 77.42563099600375,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 106.46235699823592,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 110.57627099944511,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 109.64028199668974,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 114.5123030000832,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.979404002660885,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.05424099910306,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 41.00686099991435,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 40.51959500066005,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.64509799377993,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.78126699908171,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.45778000022983,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.51743799960241,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 63.679318998765666,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.99701399722835,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.53314699884504,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.95514900091803,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 22.418934997403994,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 22.873021000123117,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.83724900276866,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.70121300237952,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.96838400076376,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 70.10087399976328,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.27307199576171,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 74.57165999949211,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 55.94154400023399,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 135.7741019965033,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 107.00175300007686,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 124.27740500424989,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 137.30453299649525,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 138.29459499538643,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 142.918636003742,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 151.8537970041507,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 149.04521299467888,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.84662500245031,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.63346900313627,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.537834002578165,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 35.65119500126457,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.36875400523422,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 55.47343900252599,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 63.40422700304771,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.94340900098905,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.45602199953282,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.96430200099712,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.27120999817271,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.10672899760539,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.28501599759329,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.46672900044359,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 113.16448699653847,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 88.21644300041953,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 77.96432800387265,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.450377994333394,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.45521199889481,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 76.31306599796517,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.18393499875674,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 77.26698600163218,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.75003800308332,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 72.48786800482776,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 77.08051800000248,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 81.68671400198946,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.35658400005195,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 23.500381998019293,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 25.75622499716701,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 39.228891997481696,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.24281699460698,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.27060400205664,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.78653799806489,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 46.70730399811873,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 68.78594800218707,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.80123799742432,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 32.84357600205112,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.562860999198165,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.00771599711152,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.11190600070404,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.26322200259892,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.89368399605155,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 88.08571299596224,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 29.283481002494227,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 112.25897599797463,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 28.23980500397738,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 35.5557270013378,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.62300800235244,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.41115200443892,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 79.04541300376877,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 83.47474499896634,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 55.61267300072359,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 79.8302879993571,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 89.41422000498278,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 24.640675001137424,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.7665559942252,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 41.40558200015221,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 73.23776699922746,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 51.04610499984119,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.92353300139075,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.44565100234468,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.70912999327993,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.58754100417718,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.974067997245584,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 14.112653996562585,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 22.414669998397585,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 54.59157400036929,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 54.51484600052936,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 84.93020999594592,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 86.53277499979595,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 85.9366609947756,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 83.82119499583496,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 90.30560099927243,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 86.29443000245374,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.460713997192215,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 85.38243499788223,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 80.59861999936402,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 117.15579700103262,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 84.09715900052106,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 87.50505100033479,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 89.41975999914575,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.53349899372552,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 74.25647600030061,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 21.63822099828394,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 30.688298000313807,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 50.45232200063765,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 84.75546499539632,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 97.24377000384266,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 91.65875400503865,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 108.01541700493544,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 106.69194300135132,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 113.73528499825625,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 74.62908499292098,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.41975200141314,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 39.40159399644472,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 38.44629499508301,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 41.11530199588742,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 41.5512059989851,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 53.36789300054079,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.51778200181434,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 86.54227400256786,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 90.4602899972815,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.37954699806869,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 90.04656400065869,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 89.34437499556225,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 97.76694099855376,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 103.06950399535708,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 98.6517979981727,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 104.10454600059893,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 100.00225499970838,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 105.33776699594455,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 117.79513800138375,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 171.73720799473813,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 72.01602900022408,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.35969499964267,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 83.46644599805586,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 93.943109997781,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 89.71751300123287,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 72.9414480010746,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 71.14310099859722,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 98.29820199956885,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.83602700184565,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.93732599948999,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 56.89798900129972,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.90143999445718,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 54.16569800581783,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 85.85550499992678,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 41.05403699941235,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.64148000162095,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 41.69468299369328,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 90.58570100023644,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.278533003118355,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 100.78246900229715,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 171.75820800184738,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 147.0530860024155,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 147.04772800178034,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 48.804600002767984,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 218.9661390002584,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 208.04964099806966,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 222.7471400037757,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 90.36777199798962,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 223.2883840042632,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 229.3230190043687,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 77.78846400469774,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 31.800399003259372,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 34.41759300039848,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 122.43982400104869,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 129.7200310000335,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 125.44179199903738,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 130.1762100047199,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 134.97727399953874,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 132.27024899970274,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 128.46962699404685,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 104.68420399411116,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 27.15466800145805,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 14.840518997516483,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 68.70176899974467,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 94.35010000015609,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 72.85207699897,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 89.02500000112923,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 101.58754599979147,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 93.26081500330474,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 98.23211900220485,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 95.09665299992776,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 13.80745700589614,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.85756200202741,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 53.378715994767845,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 44.22666400205344,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.1837169956998,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 66.46382599865319,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 63.36068200471345,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 43.7402480019955,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 45.61706200183835,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 100.8840729991789,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 72.2122169972863,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 95.37961699970765,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 180.59454199828906,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 127.29443200078094,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 93.40757400059374,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 159.62368899636203,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 119.61369200435001,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 123.01764800213277,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 99.17592400597641,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 85.00845500384457,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 81.60086799762212,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 75.34898399899248,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 107.8869199991459,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 80.85251600277843,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 80.91673099988839,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 75.51799799693981,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 84.16391300124815,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 99.68018999643391,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 75.24977999855764,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 71.22073900245596,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 58.040579002408776,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 51.88797200389672,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 70.00804699782748,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 68.89478900120594,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 72.15692800673423,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 54.05181099922629,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 48.84050200053025,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 84.69394999701763,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 39.36358799546724,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 38.385451000067405,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 41.674627995234914,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 52.39605100359768,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 70.26359199517174,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.02746800146997,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 74.53044500289252,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 76.63965599931544,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 77.61356300034095,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 79.27059400390135,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 31.984843997634016,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 62.74355699861189,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 73.59972499398282,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.9628409986035,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 63.02439999853959,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.04503400233807,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 73.83880999987014,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 76.82431899593212,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 53.25281900150003,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.42799899802776,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 70.20676299725892,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.2752229978214,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 64.09562600310892,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.803263997717295,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 91.25140799733344,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 57.031192001886666,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 105.36602699721698,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 121.77020499802893,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 105.86479999619769,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 59.13134600268677,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 63.76574499881826,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 29.428686000755988,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 10.883312999794725,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.29932800447568,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 70.48370700067608,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.01121300162049,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 65.56124900089344,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.12484500207938,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 70.96403199830092,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 69.58567300171126,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 71.00911300221924,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 10.660131003533024,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 13.759788998868316,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 61.96395600272808,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 60.62381599622313,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 76.16275899636094,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 78.63806800014572,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 77.4569170025643,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 79.94820299791172,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 71.11274499766296,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 85.39546199608594,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 26.65570100361947,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 55.37559699587291,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 74.17641600477509,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 73.28400199912721,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.3269100007019,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 78.53516600152943,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 75.15243200032273,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 75.96909599669743,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 83.68870899721514,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 41.40394999558339,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 16.60838800307829,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 17.67509099590825,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 116.88922499888577,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 128.49768299929565,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 131.8377369971131,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 148.05634300137172,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 193.2369700007257,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 192.10721499985084,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 67.0335780014284,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 196.48603800305864,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 196.08236799831502,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 68.83547200413886,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 68.25719799962826,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 40.474228000675794,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 18.28184400073951,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 19.71544499974698,
+      "status": 200,
+      "valid": true
+    },
+    {
+      "ms": 22.234162002860103,
+      "status": 200,
+      "valid": true
+    }
+  ],
+  "environment": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "python": "3.12.14",
+  "methodology": "One warmed Uvicorn process with bounded rank cache, real HTTP over localhost, fixed 10-query mix, closed-loop concurrency; no AWS or production traffic"
+}

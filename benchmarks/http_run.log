@@ -1,0 +1,18 @@
+{
+  "requests": 800,
+  "concurrency": 8,
+  "elapsed_seconds": 6.956806419999339,
+  "requests_per_second": 114.99529406196645,
+  "errors": 0,
+  "p50_ms": 64.09562600310892,
+  "p95_ms": 132.56320099753793,
+  "p99_ms": 193.2369700007257,
+  "catalog": {
+    "status": "ok",
+    "catalog_events": 12000,
+    "synthetic": true
+  },
+  "environment": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "python": "3.12.14",
+  "methodology": "One warmed Uvicorn process with bounded rank cache, real HTTP over localhost, fixed 10-query mix, closed-loop concurrency; no AWS or production traffic"
+}

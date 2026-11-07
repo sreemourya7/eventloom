@@ -1,0 +1,15 @@
+{
+  "events": 12000,
+  "queries": 300,
+  "seed": 77,
+  "relevance": "At least one top-10 result has the exact source title; one deterministic adjacent transposition per query",
+  "indexed_hit_at_10": 1.0,
+  "linear_hit_at_10": 1.0,
+  "indexed_p50_ms": 26.676267996663228,
+  "indexed_p95_ms": 59.39156800013734,
+  "linear_p50_ms": 116.14016800376703,
+  "linear_p95_ms": 176.25899000267964,
+  "p50_speedup": 4.353688755049781,
+  "mean_candidates": 2553.3333333333335,
+  "note": "Cold ranking cache per query; sequential in-process microbenchmark, no DB/HTTP cost, generated queries, not real user relevance judgments"
+}

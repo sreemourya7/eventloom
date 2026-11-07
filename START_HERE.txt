@@ -1,0 +1,17 @@
+EventLoom — Live Event Discovery & Entity Resolution
+
+1. Install Python 3.11 or newer.
+2. Open a terminal in this folder.
+3. Run: python scripts/run.py
+   Windows alternative: py scripts/run.py
+4. Open http://localhost:8000
+
+First setup downloads Python packages and reconciles the synthetic fixture.
+A compiled React interface is included; Node is only needed for frontend changes.
+
+README.md             Setup, features, boundaries, and commands
+ docs/BENCHMARKS.md    Measured results and how to reproduce them
+ docs/RESUME.md        Three resume bullets with defensible metrics
+ docs/INTERVIEW_GUIDE.md  Design discussion and demo walkthrough
+
+All events, prices, availability, and evaluation labels are synthetic.

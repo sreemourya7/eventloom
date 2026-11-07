@@ -1,0 +1,7 @@
+{
+  "seed": 42,
+  "events": 12000,
+  "observations": 37200,
+  "synthetic": true,
+  "split": "SHA256(event_id) mod 10; 0-1 dev, 2-9 test"
+}
